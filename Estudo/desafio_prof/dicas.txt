@@ -1,0 +1,18 @@
+1- Deixar debuggin para o fim do teste. Passar para a próxima pergunta.
+
+2- começar com configuração dos portos
+
+3- configurar adc (aula 6)
+
+4- cofigurar timers (aula 8) 
+
+5- o a 1023(adc) tem e variar 0 a 99(duty cycle)
+
+    10023 --- 99
+    Vadc ---- dc      dc = v/1023 * 99
+
+6- atualizar o valor da pwm
+
+7- configurar timer t2 para gerar interrupções
+
+

@@ -1,0 +1,18 @@
+12345
+    tempo 0: 440 us 
+    tempo 1: 2,8 us
+    
+123456789A
+    tempo 0: 790 us
+    tempo 1: 90 us
+
+123456789AB
+    tempo 0: 800 us
+    tempo 1: 170 us
+
+
+19200 bgs (123456789AB)
+    tempo 0: 4700 ms
+    tempo 1: 1040 ms
+
+
